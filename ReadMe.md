@@ -1,0 +1,1 @@
+I created this project for my learing purpose. And I'm going to create simple login page using Golang.
